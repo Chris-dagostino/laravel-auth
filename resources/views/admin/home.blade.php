@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    <h1>benvenuto</h1>
+                    <h1>benvenuto {{$user->name}}</h1>
                 </div>
             </div>
         </div>
